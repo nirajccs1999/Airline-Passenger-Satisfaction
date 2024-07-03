@@ -25,6 +25,37 @@ The Airline Passenger Satisfaction Dashboard provides the following features:
 - `airline_passenger_satisfaction.xlsx` - The dataset used for analysis
 - `README.md` - Project documentation
 
+
+## Dataset Columns
+The dataset contains the following columns:
+
+1. **ID**: Unique identifier for each passenger
+2. **Gender**: Gender of the passenger (Male/Female)
+3. **Age**: Age of the passenger
+4. **Customer Type**: Type of customer (Loyal Customer/Disloyal Customer)
+5. **Type of Travel**: Purpose of travel (Personal/Business)
+6. **Class**: Travel class (Business/Eco)
+7. **Flight Distance**: Distance of the flight in miles
+8. **Departure Delay**: Delay in minutes at departure
+9. **Arrival Delay**: Delay in minutes at arrival
+10. **Departure and Arrival Time Convenience**: Rating of convenience for departure and arrival times
+11. **Ease of Online Booking**: Rating of ease of booking online
+12. **Check-in Service**: Rating of check-in service
+13. **Online Boarding**: Rating of online boarding service
+14. **Gate Location**: Rating of gate location
+15. **On-board Service**: Rating of on-board service
+16. **Seat Comfort**: Rating of seat comfort
+17. **Leg Room Service**: Rating of leg room service
+18. **Cleanliness**: Rating of cleanliness
+19. **Food and Drink**: Rating of food and drink service
+20. **In-flight Service**: Rating of in-flight service
+21. **In-flight Wifi Service**: Rating of in-flight WiFi service
+22. **In-flight Entertainment**: Rating of in-flight entertainment
+23. **Baggage Handling**: Rating of baggage handling
+24. **Satisfaction**: Overall satisfaction rating
+25. **Overall Rating**: Overall rating based on various factors
+
+
 ## Results
 <img width="777" alt="dashboard" src="https://github.com/nirajccs1999/Airline-Passenger-Satisfaction/assets/121447767/dedc674f-5402-4e0c-a8e0-0e45924e1bdc">
 
