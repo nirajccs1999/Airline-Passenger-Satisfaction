@@ -26,10 +26,7 @@ The Airline Passenger Satisfaction Dashboard provides the following features:
 - `README.md` - Project documentation
 
 ## Results
-
-
-
-
+<img width="777" alt="dashboard" src="https://github.com/nirajccs1999/Airline-Passenger-Satisfaction/assets/121447767/dedc674f-5402-4e0c-a8e0-0e45924e1bdc">
 
 ## Getting Started
 
